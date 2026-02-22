@@ -1,6 +1,6 @@
-# CSI428 Leamanyi (Relative) POS Analyzer (Question 3)
+# Leamanyi (Relative) Part of Speech Analyzer
 
-Regex-based analyzer for identifying **Leamanyi (Relative)** structures in a Setswana sentence, as required by **CSI428 – Programming Language Translation** (Assignment I, Q3).
+Regex-based analyzer for identifying **Leamanyi (Relative)** structures in a Setswana sentence, as required by **CSI428 – Programming Language Translation** (Assignment I, Q3, 2025/2026 Semester 2).
 
 ## What this project does
 - Uses **Python regular expressions** (per assignment) to detect Leamanyi patterns
@@ -68,5 +68,7 @@ python tests/run_tests.py
 
 ---
 
-## Authors / Group
-Tida, Zibisani, Adam
+## Authors
+Adam Musakabantu Muyobo
+Zibisani Kgari Mholo
+Theo Kizito Tida
