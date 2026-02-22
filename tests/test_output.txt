@@ -1,0 +1,70 @@
+Sentence: Ke bone yo o tsamayang kwa motse.
+Result: FOUND 1 match(es).
+  1. Pattern A (Vng)
+     Span: words[2:5]
+     Match: 'yo o tsamayang'
+     Words: ['yo', 'o', 'tsamayang']
+--------------------------------------------------------------------------------
+Sentence: Re utlwile ba ba tla go tla ganang mo tirong.
+Result: FOUND 1 match(es).
+  1. Pattern A (Vng)
+     Span: words[2:8]
+     Match: 'ba ba tla go tla ganang'
+     Words: ['ba', 'ba', 'tla', 'go', 'tla', 'ganang']
+--------------------------------------------------------------------------------
+Sentence: O itse tse di nkutlwang sentle.
+Result: FOUND 1 match(es).
+  1. Pattern A (Vng)
+     Span: words[2:5]
+     Match: 'tse di nkutlwang'
+     Words: ['tse', 'di', 'nkutlwang']
+--------------------------------------------------------------------------------
+Sentence: Ke itse yo o aa tsamaeng gompieno.
+Result: FOUND 1 match(es).
+  1. Pattern B (Vnge)
+     Span: words[2:6]
+     Match: 'yo o aa tsamaeng'
+     Words: ['yo', 'o', 'aa', 'tsamaeng']
+--------------------------------------------------------------------------------
+Sentence: Ba ba aa ganeng ba tshwanetse go ema.
+Result: FOUND 1 match(es).
+  1. Pattern B (Vnge)
+     Span: words[0:4]
+     Match: 'Ba ba aa ganeng'
+     Words: ['Ba', 'ba', 'aa', 'ganeng']
+--------------------------------------------------------------------------------
+Sentence: Lo mo aa direng tiro ya lona.
+Result: FOUND 1 match(es).
+  1. Pattern B (Vnge)
+     Span: words[0:4]
+     Match: 'Lo mo aa direng'
+     Words: ['Lo', 'mo', 'aa', 'direng']
+--------------------------------------------------------------------------------
+Sentence: Ke rata yo o nang le madi.
+Result: FOUND 1 match(es).
+  1. Pattern C (Noun|PRO)
+     Span: words[2:7]
+     Match: 'yo o nang le madi'
+     Words: ['yo', 'o', 'nang', 'le', 'madi']
+--------------------------------------------------------------------------------
+Sentence: Re bona tse di nang le dikgomo.
+Result: FOUND 1 match(es).
+  1. Pattern C (Noun|PRO)
+     Span: words[2:7]
+     Match: 'tse di nang le dikgomo'
+     Words: ['tse', 'di', 'nang', 'le', 'dikgomo']
+--------------------------------------------------------------------------------
+Sentence: Ba ba nang le bone ba tshegetswe.
+Result: FOUND 1 match(es).
+  1. Pattern C (Noun|PRO)
+     Span: words[0:5]
+     Match: 'Ba ba nang le bone'
+     Words: ['Ba', 'ba', 'nang', 'le', 'bone']
+--------------------------------------------------------------------------------
+Sentence: Ke tsamaya kwa gae gompieno.
+Result: NO Leamanyi (Relative) structure detected.
+--------------------------------------------------------------------------------
+Sentence: tsotlhe tsotlhe tsotlhe.
+Result: NO Leamanyi (Relative) structure detected.
+--------------------------------------------------------------------------------
+

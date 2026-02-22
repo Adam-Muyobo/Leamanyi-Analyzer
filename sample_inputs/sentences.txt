@@ -1,0 +1,19 @@
+# Sample sentences for CSI428 Q3 Leamanyi analyzer
+# Pattern A examples
+Ke bone yo o tsamayang kwa motse.
+Re utlwile ba ba tla go tla ganang mo tirong.
+O itse tse di nkutlwang sentle.
+
+# Pattern B examples
+Ke itse yo o aa tsamaeng gompieno.
+Ba ba aa ganeng ba tshwanetse go ema.
+Lo mo aa direng tiro ya lona.
+
+# Pattern C examples
+Ke rata yo o nang le madi.
+Re bona tse di nang le dikgomo.
+Ba ba nang le bone ba tshegetswe.
+
+# Negative examples
+Ke tsamaya kwa gae gompieno.
+tsotlhe tsotlhe tsotlhe.
