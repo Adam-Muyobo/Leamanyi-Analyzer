@@ -69,6 +69,6 @@ python tests/run_tests.py
 ---
 
 ## Authors
-Adam Musakabantu Muyobo
-Zibisani Kgari Mholo
-Theo Kizito Tida
+- Adam Musakabantu Muyobo
+- Zibisani Kgari Mholo
+- Theo Kizito Tida
