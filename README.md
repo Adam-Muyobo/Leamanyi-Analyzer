@@ -6,7 +6,7 @@ Regex-based analyzer for identifying **Leamanyi (Relative)** structures in a Set
 - Uses **Python regular expressions** (per assignment) to detect Leamanyi patterns
 - Stores POS/lexicons in **external text files** under `data/`
 - Reports: matched substring, which pattern matched, and word-span indices
-
+- Too complicated? read the five.md file
 ---
 
 ## Project Layout
